@@ -1,4 +1,4 @@
-# Treyworks Chat Plugin for WordPress
+# FG Congierge by Treyworks Chat Plugin for WordPress
 
 **Features:**
 

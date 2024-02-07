@@ -1,11 +1,11 @@
 <?php
 /*
- * Plugin Name: Treyworks Chat for WordPress
- * Plugin URI: https://treyworks.com
+ * Plugin Name: FG Congierge Chat for WordPress
+ * Plugin URI: https://freundlichegruesse.com
  * Description: A chat widget plugin for WordPress powered by the OpenAI Assistants API.
  * Version: 2024.01.27
- * Author: Treyworks LLC
- * Author URI: https://treyworks.com
+ * Author: Freundliche Gruesse AG
+ * Author URI: https://freundlichegruesse.com
  * License:           MIT
  * License URI:       https://opensource.org/license/MIT/
  * Text Domain:       plugin-name
